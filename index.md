@@ -1,2 +1,8 @@
 # Gurb
 Gurb is very different from his friend, the narrator. He is decisive, independent and is shown to have no concern for the narrator. His neighbour is a young single mother. Gurb is in love with her, although she is not interested in him.
+## traits
+* alien
+* explorer
+* funny
+* not obedient
+* is a shapeshifter
