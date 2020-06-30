@@ -6,3 +6,4 @@ Gurb is very different from his friend, the narrator. He is decisive, independen
 * funny
 * not obedient
 * is a shapeshifter
+> Objective: do not attract the attention of the native people
